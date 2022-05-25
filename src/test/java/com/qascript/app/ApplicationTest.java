@@ -13,7 +13,7 @@ public class ApplicationTest {
             Assert.assertEquals("Hello World!", app.getMessage());
         }
         catch (Exception e){
-            Assert.fail("Message is not aware Hello World!");
+            Assert.fail("Message is not new about Hello World!");
         }
     }
 }
